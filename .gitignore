@@ -1,0 +1,8 @@
+# Protect local configuration
+.env
+config.local.php
+
+# Ignore temporary files
+*.log
+.DS_Store
+Thumbs.db
